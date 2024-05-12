@@ -1,6 +1,6 @@
 /* testing */
 .watermark {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Arial', sans-serif !important;
     position: absolute;
     width: max-content;
     text-align: center;
