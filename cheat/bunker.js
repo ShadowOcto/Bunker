@@ -4,7 +4,7 @@
 // @version      1
 // @description  Cheat for Krunker.io
 // @author       Bunker Development
-// @match        *://https://krunker.io/*
+// @match        *://krunker.io/*
 // @run-at      document-start
 // ==/UserScript==
 
