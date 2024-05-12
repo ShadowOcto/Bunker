@@ -1,0 +1,19 @@
+/* testing */
+.watermark {
+    font-family: 'Arial', sans-serif;
+    position: absolute;
+    width: max-content;
+    text-align: center;
+    height: 10px;
+    padding: 10px;
+    color: white;
+    background: rgba(0, 0, 0, 0.84);
+    backdrop-filter: blur(10px);
+    border: 2px solid #272727;
+    border-radius: 8px;
+}
+
+.watermark-text {
+    position: relative;
+    top: -4px;
+}
